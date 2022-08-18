@@ -1,0 +1,19 @@
+.banner{
+    background: url(heris.png) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-weight: bold;
+    color: rgb(250, 248, 248);
+    
+}
+.display-3{
+    text-align: center;
+}
+.lingkaran{
+    display: inline-block;
+}
+.card{
+    text-align: center;
+    padding-top: ;
+}
